@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 📝 I regularly write articles on [https://www.xataka.com/](https://www.xataka.com/)
-
 - 📫 How to reach me **alfonsgonzalezortiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
